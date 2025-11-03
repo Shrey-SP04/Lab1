@@ -1,4 +1,4 @@
-# Lab1 h
+# Linux Netwokring
 Command: ps aux 
 Explanation: a → show processes for all users
 u → show user/owner of process
